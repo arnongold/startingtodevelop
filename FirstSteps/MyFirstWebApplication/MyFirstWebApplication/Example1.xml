@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PhoneRecords>
+  <Person Manager="true">
+    <Name>Arnon Goldstein</Name>
+    <PhoneNumber>0523948293</PhoneNumber>
+    <Id>033492837</Id>
+  </Person>
+  <Person Manager="false">
+    <Name>Itzik Burshtein</Name>
+    <PhoneNumber>0529384732</PhoneNumber>
+    <Id>992837482</Id>
+  </Person>
+</PhoneRecords>
+
