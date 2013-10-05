@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingVariables", "UsingVariables\UsingVariables.csproj", "{5E752C9D-37E9-40D2-B772-A64E81321E96}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://arnongold.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = UsingVariables\\UsingVariables.csproj
+		SccProjectName1 = UsingVariables
+		SccLocalPath1 = UsingVariables
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E752C9D-37E9-40D2-B772-A64E81321E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E752C9D-37E9-40D2-B772-A64E81321E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E752C9D-37E9-40D2-B772-A64E81321E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E752C9D-37E9-40D2-B772-A64E81321E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
